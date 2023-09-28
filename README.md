@@ -1,6 +1,6 @@
 # VytrixDuper 🚗
 
-**VytrixDuper** is a powerful and user-friendly tool specifically developed for Roblox's popular game, Jailbreak. This tool, created by **Floppy**, empowers players with the ability to duplicate cars within the game, enhancing their gaming experience and giving them a competitive edge.
+**VytrixDuper** is a powerful and user-friendly tool specifically developed for Roblox's popular game, Jailbreak. This tool, created by **Flippy**, empowers players with the ability to duplicate cars within the game, enhancing their gaming experience and giving them a competitive edge.
 
 ## Features ✨
 
